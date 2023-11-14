@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "NodeNext",
+        "module": "NodeNext",
+        "types": [
+            "node",
+            "@wdio/globals/types",
+            "expect-webdriverio",
+            "@wdio/jasmine-framework"
+        ],
+        "target": "ESNext",
+        "resolveJsonModule": true,
+        "esModuleInterop": true,
+    }
+}
